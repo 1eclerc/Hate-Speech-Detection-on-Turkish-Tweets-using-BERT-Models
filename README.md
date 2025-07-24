@@ -2,7 +2,7 @@
 
 This project uses pretrained BERT models to classify Turkish tweets as containing hate speech or not. It leverages `transformers`, `PyTorch`, and evaluation tools like confusion matrices and classification reports.
 
-The project also improves the results of the first project that focuses on the same topic. You can visit here: [Hate Speech Detection on Turkish Tweets](https://github.com/1eclerc/Hate-Speech-Detection-on-Turkish-Tweets)
+The project also improves the results of the first project that focuses on the same topic. You can visit here: [1eclerc's Repository | Hate Speech Detection on Turkish Tweets](https://github.com/1eclerc/Hate-Speech-Detection-on-Turkish-Tweets)
 
 ---
 
