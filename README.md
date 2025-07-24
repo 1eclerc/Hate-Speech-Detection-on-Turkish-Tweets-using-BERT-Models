@@ -72,13 +72,3 @@ pip install torch transformers scikit-learn pandas matplotlib seaborn openpyxl t
 - Jupyter Notebook 📒
 
 ---
-
-## 🙋‍♂️ Contributors
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
----
-
-## 📄 License
-
-MIT License
